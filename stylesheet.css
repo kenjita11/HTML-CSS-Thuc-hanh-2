@@ -1,0 +1,201 @@
+#Page{
+	font-family: Arial;
+	position: relative;
+	width: 100%;
+}
+#Header{
+	position: absolute;
+	width: 80%;
+}
+#fill_header{
+	position: absolute;
+	width: 100%;
+	height: 300px;
+}
+#logo2_header{
+	position: absolute;
+	top: 60px;
+	left: 6%;
+	opacity: 0.9;
+}
+#mystyle{
+	position: absolute;
+	top: 70px;
+	left: 14%;
+	font-size: 30px;
+}	
+.menu{
+	position: absolute;
+	top: 150px;
+	left: 6%;
+}
+.menu li{
+	list-style-type: none;
+	display: inline-block;
+}
+a span{
+	display: block;
+	color: #ffffff;
+}
+.menu a{
+	text-decoration: none;
+}
+#main_page{
+	position: absolute;
+	background-color: #111111;
+	top: 280px;
+	width: 80%;
+	height: 700px;
+}
+#left_content{
+	position: absolute;
+	background-color: #1e1e1e;
+	left: 10%;
+	top: 40px;
+	height: 400px;
+	width: 220px;
+}
+.first_border_left{
+	color: #7f7f7f;
+	position: absolute;
+	font-size: 1px;
+	top: 50px;
+	left: 10%;
+	width: 80%;
+}
+.up_content_left{
+	position: absolute;
+	top: 70px;
+	left: 10%;
+	width: 80%;
+	font-size: 12px;
+	color: #7f7f7f;
+}
+.second_border_left{
+	position: absolute;
+	border-style: dotted;
+	color: #7f7f7f;
+	top: 170px;
+	left: 10%;
+	width: 80%;
+}
+.down_content_left{
+	position: absolute;
+	top: 180px;
+	left: 1%;
+	color: #7f7f7f;
+}
+#left_content a{
+	color: #7f7f7f;
+	font-size: 11px;
+}
+#right_content{
+	position: absolute;
+	left: 30%;
+	top: 40px;
+	height: 700px;
+	width: 400px;
+}
+.design_image{
+	position: absolute;
+	left: 10%;
+	top: 40px;
+}
+.up_content_right{
+	position: absolute;
+	left: 10%;
+	top: 210px;
+	color: #717171;
+	width: 400px;
+	font-size: 12px;
+}
+.fill_out_up{
+	position: absolute;
+	left: 10%;
+	top: 190px;
+}
+.first_border_right{
+	position: absolute;
+	width: 100%;
+	top: 260px;
+	left: 10%;
+	border-style: dotted;
+	color: #7f7f7f;
+}
+.icon_up_right{
+	position: absolute;
+	left: 10%;
+	top: 290px;
+}
+.lauch_website_up{
+	position: absolute;
+	font-size: 12px;
+	left: 15%;
+	top: 275px;
+}
+#right_content a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.energy_image{
+	position: absolute;
+	left: 10%;
+	top: 340px;
+}
+.fill_out_down{
+	position: absolute;
+	left: 10%;
+	top: 490px;
+}
+.down_content_right{
+	position: absolute;
+	left: 10%;
+	top: 510px;
+	color: #717171;
+	width: 400px;
+	font-size: 12px;
+}
+.second_border_right{
+	position: absolute;
+	width: 100%;
+	top: 560px;
+	left: 10%;
+	border-style: dotted;
+	color: #7f7f7f;
+}
+.icon_down_right{
+	position: absolute;
+	left: 10%;
+	top: 590px;
+}
+.lauch_website_down{
+	position: absolute;
+	font-size: 12px;
+	left: 15%;
+	top: 576px;
+}
+#footer{
+	position: absolute;
+	background-color: #111111;
+	top: 980px;
+	width: 80%;
+	height: 100px;
+}
+.footer_text{
+	position: absolute;
+	color: #7f7f7f;
+	top: 10px;
+	left: 10%;
+	font-size: 10px;
+}
+.footer_text a{
+	color: #7f7f7f;
+}
+.border_footer{
+	position: absolute;
+	top: 5px;
+	left: 10%;
+	border-style: dotted;
+	color: #7f7f7f;
+	width: 59%;
+}
